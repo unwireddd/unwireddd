@@ -1,9 +1,5 @@
-<h1 align="center">Hi, I'm unwired</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unwireddd&label=Profile%20views&color=0e75b6&style=flat" alt="unwireddd" /> </p>
 
-- I’m currently learning **Golang**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
