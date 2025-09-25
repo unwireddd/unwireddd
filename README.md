@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Note
+I still semi-actively contribute to my projects, Github just doesn't count my commits.
 <!--
 **unwireddd/unwireddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
